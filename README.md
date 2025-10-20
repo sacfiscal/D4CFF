@@ -6,7 +6,7 @@ Este projeto demonstra como consumir a API de CClassTrib do projeto **Conformida
 
 O D4CFF é um exemplo prático de integração com a API de classificação tributária da Reforma Tributária, implementado em Delphi utilizando certificado digital A1 para autenticação.
 
-Este projeto é baseado no **SACFiscal - Conformidade Fácil**, uma solução para auxiliar na adequação à Reforma Tributária brasileira.
+Este projeto é fornecido pelo **SACFiscal**, para auxiliar na adequação à Reforma Tributária brasileira.
 
 🌐 **Site oficial:** [https://www.sacfiscal.com.br](https://www.sacfiscal.com.br)
 
