@@ -1,0 +1,79 @@
+# Delphi compiler-generated files
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.bpi
+*.dcp
+*.so
+*.apk
+*.drc
+*.map
+*.dres
+*.rsm
+*.tds
+*.dproj.local
+*.groupproj.local
+*.identcache
+*.projdata
+*.stat
+
+# Delphi IDE files
+*.local
+*.~*
+__history/
+__recovery/
+*.dsk
+
+# Build output directories
+Win32/
+Win64/
+Debug/
+Release/
+*.o
+*.or
+
+# OS files
+Thumbs.db
+*.DS_Store
+.DS_Store
+desktop.ini
+
+# Backup files
+*.bak
+*.~*~
+*~
+
+# Package files
+*.bpl
+*.dcp
+
+# Compiled resource files
+*.res
+*.rsm
+
+# Database connection files
+*.tdb
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE-specific files
+.idea/
+.vscode/
+*.suo
+*.user
+
+# Documentation build artifacts (keep source docs)
+# docs/*.html
+# docs/*.pdf
+
+# Keep DLLs that are dependencies (like OpenSSL for Indy)
+!Win32/Debug/libeay32.dll
+!Win32/Debug/ssleay32.dll
+!Win64/Debug/libeay32.dll
+!Win64/Debug/ssleay32.dll
