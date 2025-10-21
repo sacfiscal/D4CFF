@@ -36,7 +36,7 @@ Para o correto funcionamento da aplicação, é necessário ter as seguintes DLL
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/D4CFF.git
+git clone https://github.com/sacfiscal/D4CFF.git
 ```
 
 2. Abra o projeto no Delphi
